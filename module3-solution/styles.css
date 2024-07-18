@@ -1,0 +1,33 @@
+/* Navbar customization */
+.navbar-default {
+    background-color: #333;
+    border-color: #333;
+}
+.navbar-default .navbar-brand {
+    color: #fff;
+}
+.navbar-default .navbar-toggle {
+    border-color: #fff;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #fff;
+}
+.navbar-default .navbar-collapse {
+    background-color: #555;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #fff;
+}
+
+/* Main content styling */
+.main-content {
+    background-color: #f8f8f8;
+    height: 1560px;
+    padding: 20px;
+}
+
+/* Page heading styling */
+h1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
